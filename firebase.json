@@ -16,7 +16,7 @@
   "firestore": {
     "database": "(default)",
     "location": "asia-east1",
-    "rules": "my.tule",
+    "rules": "firebase.rules",
     "indexes": "firestore.indexes.json"
   }
 }
